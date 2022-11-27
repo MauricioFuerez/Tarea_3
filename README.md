@@ -6,10 +6,11 @@ El informe realizado a continuación está evaluado y especificado para la compr
 
 1.	OBJETIVOS
 
-* Analizar los procesos de las leyes de Kirchhoff
-* Estudiar la relación entre corriente, voltaje y resistencia, mediante la ley de ohm para su implementación adecuada.
-* Identificar los prefijos métricos aplicados con las resoluciones para una mejor interpretación de los datos a plantearse en cada uno de los problemas.
-* Poner en práctica los conceptos y la teoría sobre la potencia, energía analizadas previamente al omento de identificarlas en la resolución de los problemas.
+* Analizar los circuitos en serie y paralelo con sus cálculos ,características y funciones, según se empleen.
+* Aprender a utilizar las mediciones de corriente, voltaje, y resistencias totales o Equivalentes.
+* Identificar y analizar las leyes de Kirchhoff con su formulas y casos según se empleen.
+* Resolver los ejercicios a presentase complementando con las ley de Ohm para los circuitos serie, paralelo o mixto.
+
 
 
 2.	MARCO TEÓRICO (RESUMEN)
