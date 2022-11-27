@@ -1,4 +1,4 @@
-#Informe Tarea 3
+# Informe Tarea 2
 
 Nombre: Mauricio Fuerez
 NRC:10069
