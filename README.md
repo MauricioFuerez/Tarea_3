@@ -43,8 +43,7 @@ CAPITULO 5 y 6
 CAPITULO 5:CIRCUITOS EN SERIE
 -Ejercicios pares
 
-<img width="348" alt="5 1" src="https://user-images.githubusercontent.com/117534483/204602549-3438426b-afda-4c52-
-82c6-783cf99b3074.png">
+<img width="348" alt="5 1" src="https://user-images.githubusercontent.com/117534483/204606309-ed9c7fb9-a033-43ab-9566-916bb8ae0a58.png">
 
 <img width="405" alt="5 2" src="https://user-images.githubusercontent.com/117534483/204602552-13ac9382-3841-474f-a985-7811182b3c0c.png">
 
