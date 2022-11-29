@@ -83,7 +83,7 @@ CAPITULO 6:CIRCUITOS EN PARALELO
 
 4.	VIDEO
 
-
+https://youtu.be/Gy-8ekmzP3o
 
 5.	CONCLUSIONES
 
