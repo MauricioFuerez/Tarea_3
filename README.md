@@ -16,29 +16,30 @@ El informe realizado a continuación está evaluado y especificado para la compr
 CAPITULO 5 y 6 
 -CIRCUITOS EN SERIE 
 -CIRCUITOS EN PARALELO
-![1](https://user-images.githubusercontent.com/117534483/204565412-ba3b892e-544a-4a19-9748-f351bf044a60.png)
 
-![2](https://user-images.githubusercontent.com/117534483/204565421-83c16d2d-d8d4-48b4-bb1a-5b1274c63280.png)
+![1](https://user-images.githubusercontent.com/117534483/204605630-4b6dd001-1991-48b4-ab74-3184db669401.png)
 
-![3](https://user-images.githubusercontent.com/117534483/204565425-6647b3ee-cea2-41cc-89c2-2c296595fc55.png)
+<img width="1170" alt="2" src="https://user-images.githubusercontent.com/117534483/204605634-058bd28b-3b13-486e-9a38-7ec99fb3cce7.png">
 
-![4](https://user-images.githubusercontent.com/117534483/204565429-96633329-c2ef-4656-bd7b-c35b651fe3fc.png)
+<img width="897" alt="3" src="https://user-images.githubusercontent.com/117534483/204605639-3c654af8-9bb7-4e7a-93f4-749ddc2e8207.png">
 
-![5](https://user-images.githubusercontent.com/117534483/204565433-a5002d77-7ad6-4779-819b-014fed5cf7de.png)
+![4](https://user-images.githubusercontent.com/117534483/204605642-40b3d505-c4a5-4f0d-ba71-3ad2e49f75e7.png)
 
-![6](https://user-images.githubusercontent.com/117534483/204565436-618cc0ea-d316-44a3-92ce-5d2589495942.png)
+![5](https://user-images.githubusercontent.com/117534483/204605646-1d253e6b-f030-4d7f-aa05-1b884c2e7dd4.png)
 
-![7](https://user-images.githubusercontent.com/117534483/204565438-667bb73f-2cd2-416c-a044-27bfeca6a1e7.png)
+<img width="681" alt="6" src="https://user-images.githubusercontent.com/117534483/204605651-38a506d0-c504-42d1-acf5-11bf13c78162.png">
 
-![8](https://user-images.githubusercontent.com/117534483/204565441-77e6ce22-c9a0-47c0-9db0-91a51694111c.png)
+<img width="1242" alt="7" src="https://user-images.githubusercontent.com/117534483/204605652-3b066eec-0c7d-4812-a49e-6cf011a4d8fb.png">
 
-![9](https://user-images.githubusercontent.com/117534483/204565444-b1f3fd2d-92be-4f9c-9bac-49c44004c058.png)
+<img width="1237" alt="8" src="https://user-images.githubusercontent.com/117534483/204605653-65b4969e-8e46-4bac-9c8f-2c92693e6b09.png">
 
-![10](https://user-images.githubusercontent.com/117534483/204565448-efdc8bbb-536d-4672-8d44-2531e856a0c1.png)
+![9](https://user-images.githubusercontent.com/117534483/204605654-cdafcee5-29d9-400f-bd58-987a013c4ead.png)
+<img width="915" alt="10" src="https://user-images.githubusercontent.com/117534483/204605656-514061f7-8556-483e-b9c2-8ee381c371d3.png">
 
-![11](https://user-images.githubusercontent.com/117534483/204565450-8dd06094-52a9-4655-9e30-5306d86c6e79.png)
+<img width="1190" alt="11" src="https://user-images.githubusercontent.com/117534483/204605659-ffdb2c8b-8a71-49a5-a9bd-7d5da899e7b5.png">
 
 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
 CAPITULO 5:CIRCUITOS EN SERIE
 -Ejercicios pares
 
